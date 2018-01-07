@@ -1,0 +1,15 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DestroyTimer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DestroyTimer.cs" Line="9" Column="18" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\PC2D.cs" Line="96" Column="26" />
+      <File FileName="Assets\Scripts\CoinScripts.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
